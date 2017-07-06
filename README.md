@@ -17,6 +17,7 @@ In this lab, you'll debug a Node script which has some issues.
 
 ## Instructions
 
+
 1. Open `account.js` then launch it from the command line with `node account`.
 2. Find the issues
 3. Put some `debugger` statements in `account.js`
